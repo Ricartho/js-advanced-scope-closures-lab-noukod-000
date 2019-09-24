@@ -19,3 +19,8 @@ function produceTipCalculator(percent){
     return val * percent;
   }
 }
+
+function createDriver{
+  let driverId = 0;
+  return class Driver
+}
